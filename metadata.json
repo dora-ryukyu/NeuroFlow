@@ -1,0 +1,6 @@
+{
+  "name": "NeuroFlow",
+  "description": "An intuitive, visual AI design platform that bridges the gap between ideas and implementation. Design neural networks with a drag-and-drop interface, learn interactively, and generate high-quality PyTorch code instantly.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
